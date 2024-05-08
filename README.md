@@ -1,1 +1,1 @@
-# ferhat-bozkurt
+Merhaba! GitHub profilime hoş geldiniz. Ben Ferhat Bozkurt, kodlamaya ve teknolojiye ilgili bir bilgisayar mühendisliği öğrencisiyim. Burada, genellikle web geliştirme, makine öğrenimi, oyun geliştirme ve otomasyon betikleri gibi farklı alanlarda projelerimi bulacaksınız. Farklı alanları keşfetmek ve becerilerimi geliştirmek için yeni teknolojilerle denemeyi seviyorum. Depolarımı kontrol etmekte çekinmeyin ve herhangi bir sorunuz veya işbirliği fikriniz varsa bana ulaşmaktan çekinmeyin. Birlikte neler yapabileceğimizi görelim!
